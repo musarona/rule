@@ -4,6 +4,7 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,groq
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
